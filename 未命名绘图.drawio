@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T14:50:34.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="1ctRiBIE2WgEeO7oXP9L" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T03:43:14.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="2iA9GhaAoEj6N7cNgM8k" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3917" dy="3109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2441" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,16 +35,24 @@
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-139" value="对抗" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-1" target="6_Rd-iX3gzmm0mYxBTUK-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-1" value="亨利八世&lt;br&gt;&lt;font&gt;&lt;font size=&quot;2&quot;&gt;1491年出生&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;天主教&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;祖先是威尔士侍从&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-1" value="亨利八世&lt;br&gt;&lt;font&gt;&lt;font size=&quot;2&quot;&gt;1491年出生&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;天主教&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;祖先是威尔士侍从&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="-40" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-67" value="女儿" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-2" target="6_Rd-iX3gzmm0mYxBTUK-1">
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-67" value="妹妹" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-2" target="6_Rd-iX3gzmm0mYxBTUK-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-209" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-2" target="6_Rd-iX3gzmm0mYxBTUK-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-210" value="女儿" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6_Rd-iX3gzmm0mYxBTUK-209">
+          <mxGeometry x="-0.0564" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-2" value="玛丽·都铎" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-420" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-15" target="6_Rd-iX3gzmm0mYxBTUK-6">
           <mxGeometry relative="1" as="geometry">
@@ -95,7 +103,7 @@
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-15" value="昂古莱姆伯爵查理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-18" value="弗朗索瓦一世&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;1515年加冕。法兰西的第57位国王&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-18" value="弗朗索瓦一世&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;1515年加冕。法兰西的第57位国王&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="580" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-20" value="萨伏依的路易丝" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -109,12 +117,12 @@
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-39" value="夫妻" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="409.5" as="sourcePoint" />
-            <mxPoint x="320" y="409.5" as="targetPoint" />
+            <mxPoint x="-500" y="-90.5" as="sourcePoint" />
+            <mxPoint x="-420" y="-90.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-38" value="萨福克公爵&lt;br&gt;查尔斯·布兰登" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="380" width="130" height="60" as="geometry" />
+          <mxGeometry x="-630" y="-120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-44" value="姐姐" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-42" target="6_Rd-iX3gzmm0mYxBTUK-18">
           <mxGeometry relative="1" as="geometry" />
@@ -169,8 +177,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-52" value="查理五世&lt;br&gt;卡斯蒂利亚和阿拉贡的国王，那不勒斯、撒丁岛的国王" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="1370" width="430" height="60" as="geometry" />
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-52" value="查理五世&lt;br&gt;卡斯蒂利亚和阿拉贡的国王，那不勒斯、撒丁岛的国王&lt;br&gt;神圣罗马帝国皇帝" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="1370" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-53" target="6_Rd-iX3gzmm0mYxBTUK-52">
           <mxGeometry relative="1" as="geometry" />
@@ -217,6 +225,14 @@
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-77" value="女儿" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6_Rd-iX3gzmm0mYxBTUK-76">
           <mxGeometry x="0.1428" y="2" relative="1" as="geometry">
             <mxPoint x="2" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-198" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-72" target="6_Rd-iX3gzmm0mYxBTUK-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-199" value="弗洛登战役" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6_Rd-iX3gzmm0mYxBTUK-198">
+          <mxGeometry x="0.3723" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-72" value="凯瑟琳" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -394,6 +410,9 @@
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-137" value="支持" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-136" target="6_Rd-iX3gzmm0mYxBTUK-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-212" value="次子" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-136" target="6_Rd-iX3gzmm0mYxBTUK-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-136" value="教皇&lt;br&gt;利奥十世" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -485,7 +504,7 @@
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-186" value="合法夫妻" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-172" target="6_Rd-iX3gzmm0mYxBTUK-183">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-172" value="苏莱曼大帝&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;穆斯林&lt;br&gt;奥斯曼苏丹&lt;br&gt;1494年出生&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-172" value="苏莱曼大帝&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;穆斯林&lt;br&gt;奥斯曼苏丹&lt;br&gt;1494年出生&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1472" y="2040" width="136" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-173" value="奥斯曼" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -517,6 +536,69 @@
         </mxCell>
         <mxCell id="6_Rd-iX3gzmm0mYxBTUK-184" value="罗塞尼亚&lt;br&gt;一位东正教神父" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1730" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-190" value="女儿" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-189" target="6_Rd-iX3gzmm0mYxBTUK-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-196" value="摄政" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-189" target="6_Rd-iX3gzmm0mYxBTUK-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-197" value="姐姐" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-189" target="6_Rd-iX3gzmm0mYxBTUK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-189" value="玛格丽特" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-192" value="夫妻" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;shape=link;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-191" target="6_Rd-iX3gzmm0mYxBTUK-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-191" value="苏格兰国王&lt;br&gt;詹姆斯四世" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-250" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-194" value="儿子" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-193">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="-80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-193" value="詹姆斯五世" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="-25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-201" value="祖母" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-200" target="6_Rd-iX3gzmm0mYxBTUK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-200" value="瓦伦蒂娜·维斯康蒂" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-211" value="洛伦佐·德·美第奇" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-214" value="前任教皇" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6_Rd-iX3gzmm0mYxBTUK-213" target="6_Rd-iX3gzmm0mYxBTUK-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-213" value="尤利乌斯二世" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-216" value="莱茵的&lt;br&gt;巴拉丁伯爵" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-217" value="波希米亚国王" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-218" value="科隆大主教" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-219" value="特里尔大主教" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-220" value="美因茨大主教" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-221" value="勃兰登堡藩侯" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6_Rd-iX3gzmm0mYxBTUK-222" value="萨克森公爵" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
